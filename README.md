@@ -43,3 +43,6 @@
   * Stradala vrsta (ako je moguće)
   * Oznaka stupa (ako postoji)
   * Materijal stupa
+   * Beton
+   * Drvo
+   * Metalno-rešetkasti
